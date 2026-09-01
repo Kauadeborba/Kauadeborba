@@ -2,8 +2,6 @@
 
 **`Desenvolvedor Frontend`**
 
-# Olá, eu sou Kauã
-
 Sou estudante de **Engenharia de Software** e atuo como **Desenvolvedor Web**, com foco em **Frontend** e integração com **Backend**.
 
 Atualmente trabalho na manutenção e evolução de aplicações em produção, desenvolvendo interfaces, integrações e soluções voltadas para problemas reais de negócio.
