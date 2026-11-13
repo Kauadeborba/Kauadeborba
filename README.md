@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Kauã de Borba
+# 👨🏻‍💻 Kauã de Pereira
 
 **`Desenvolvedor Frontend`**
 
