@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Kauã de Pereira
+# 👨🏻‍💻 Kauã Pereira
 
 **`Desenvolvedor Frontend`**
 
